@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Резюме — Цыбин Тимур</title>
+</head>
+<body>
+  <header>
+    <div id="top">
+      <img src="avatar-placeholder.png" alt="Фотография Цыбин Тимур" width="140" height="140">
+      <h1>Цыбин Тимур</h1>
+      <p><strong>Software Engineer</strong></p>
+      <p>
+        <a href="mailto:timurcybin@gmail.com">timurcybin@gmail.com</a>
+        <span aria-hidden="true"> · </span>
+        <a href="tel:+7">+7</a>
+      </p>
+      <hr>
+    </div>
+  </header>
+
+  <article>
+    <section id="summary">
+      <header>
+        <h2>Краткое резюме</h2>
+      </header>
+      <p>
+        Разработчик с практическим опытом в создании веб-приложений на Python.
+        Разрабатывал фронтенд и бэкенд сервисы, проектировал API.
+      </p>
+    </section>
+
+    <section id="skills">
+      <h2>Ключевые навыки</h2>
+      <dl>
+        <dt>Языки программирования</dt>
+        <dd>С++, Python, SQL</dd>
+
+        <dt>Инфраструктура</dt>
+        <dd>(GitHub)</dd>
+
+        <dt>Базы данных</dt>
+        <dd>SQL</dd>
+
+        <dt>Инструменты</dt>
+        <dd>Git</dd>
+      </dl>
+    </section>
+
+    <section id="experience">
+      <h2>Опыт работы</h2>
+
+      <ol>
+        <li>
+          <section>
+            <h3>Mid half-stack Developer — ООО «Нигде»</h3>
+            <p><em>Сентябрь 2025 — настоящее время</em></p>
+            <ul>
+              <li>Проектирование и разработка</li>
+              <li>Оптимизация производительности, снижение времени ответа API.</li>
+            </ul>
+          </section>
+        </li>
+
+        <li>
+          <section>
+            <h3>Middle Backend Developer — ООО «ВебСолюшн»</h3>
+            <p><em>Июнь 2022 — Апрель 2023</em></p>
+            <ul>
+              <li>Разработка API на Python.</li>
+              <li>Миграция монолитного приложения в микросервисы.</li>
+            </ul>
+          </section>
+        </li>
+      </ol>
+    </section>
+
+    <section id="education">
+      <h2>Образование</h2>
+
+      <table border="1" cellpadding="6" cellspacing="0">
+        <colgroup>
+          <col style="width:30%">
+          <col style="width:45%">
+          <col style="width:25%">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Период</th>
+            <th>Учебное заведение / Специальность</th>
+            <th>Город</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2022 — 2026</td>
+            <td>РЭУ им. Г.В. Плеханова — Бакалавр, Математическое обеспечение и администрирование информационных систем</td>
+            <td>Москва</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="projects">
+      <h2>Избранные проекты</h2>
+      <ul>
+        <li><strong>Project A</strong> — платформа для аналитики; роль: ведущий разработчик фронтенда.</li>
+        <li><strong>Project B</strong> — сервис обработки изображений; роль: разработчик бэкенда и CI.</li>
+      </ul>
+    </section>
+
+    <section id="certificates">
+      <h2>Сертификаты и курсы</h2>
+      <ul>
+        <li>Яндекс лицей — Профессиональная программа, 2021 - 2022.</li>
+      </ul>
+    </section>
+
+    <section id="languages">
+      <h2>Языки</h2>
+      <ul>
+        <li>Русский — родной</li>
+        <li>Английский — уровень B2 (чтение, разговор)</li>
+      </ul>
+    </section>
+
+    <hr>
+
+    <section id="additional">
+      <h2>Дополнительно</h2>
+      <p>
+        Готов к релокации, открыт к удалённой работе. Рекомендации предоставлю по запросу.
+      </p>
+    </section>
+  </article>
+
+  <footer>
+    <section>
+      <h2>Контакты</h2>
+      <address>
+        <p>
+          Email: <a href="mailto:timurcybin@gmail.com">timurcybin@gmail.com</a><br>
+          Телефон: <a href="tel:+7">+7</a>
+        </p>
+      </address>
+      <p>
+        Профили:
+        <a href="https://github.com/timur-tsybin" target="_blank" rel="noopener noreferrer">GitHub</a> ·
+      </p>
+    </section>
+  </footer>
+</body>
+</html>
